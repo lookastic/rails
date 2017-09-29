@@ -3,3 +3,5 @@
 ## Ruby 2.3
 
 ## Rbenv
+
+## Redis

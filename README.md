@@ -1,1 +1,1 @@
-# Rails
+# Ruby on Rails
